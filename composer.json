@@ -1,6 +1,6 @@
 {
   "name": "tonix-tuft/testardo",
-  "description": "Utility traits for testing with PHPUnit",
+  "description": "Utility traits for testing with PHPUnit.",
   "keywords": [
     "test",
     "testing",
